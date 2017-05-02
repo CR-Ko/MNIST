@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/koo/MNIST/model/model.ckpt"
+all_model_checkpoint_paths: "/home/koo/MNIST/model/model.ckpt"
