@@ -32,7 +32,7 @@ import tensorflow as tf
 
 FLAGS = None
 
-model_path = "/home/koo/MNIST/model/model.ckpt" 
+model_path = "/home/ko/MNIST/model/model.ckpt" 
 
 
 def main(_):
